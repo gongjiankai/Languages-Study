@@ -1,6 +1,10 @@
-"D:\softwareenglish\Clion\IDE\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "H:\Study\Notebook\Languages\C language\Code"
-CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
-  CMake 3.20 or higher is required.  You are running version 3.13.2
-
-
--- Configuring incomplete, errors occurred!
+"D:\Cline\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "H:\Study\Notebook\Languages\C language\Code"
+-- The C compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: H:/Study/Notebook/Languages/C language/Code/cmake-build-debug
